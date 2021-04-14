@@ -1,6 +1,6 @@
 我的自拍风景照片。
 
-按照 [CC0](http://creativecommons.org/publicdomain/zero/1.0/) 许可协议发布。
+按照 [CC0](https://creativecommons.org/publicdomain/zero/1.0/) 许可协议发布。
 <p xmlns:dct="http://purl.org/dc/terms/">
   <a rel="license"
      href="https://creativecommons.org/publicdomain/zero/1.0/">
