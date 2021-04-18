@@ -8,7 +8,6 @@
   </a>
   <br />
   To the extent possible under law,
-  <span rel="dct:publisher" resource="[_:publisher]">the person who associated CC0</span>
-  with this work has waived all copyright and related or neighboring
+  <span rel="dct:publisher" resource="[_:publisher]">迎春心情</span> has waived all copyright and related or neighboring
   rights to this work.
 </p>
